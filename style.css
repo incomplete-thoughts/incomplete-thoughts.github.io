@@ -45,6 +45,8 @@ h3 {
 .container .container-item img {
     border-radius: 1em;
     opacity: 0.8;
+    width: 100%;
+    height: auto;
 }
 
 .container .container-item p {
